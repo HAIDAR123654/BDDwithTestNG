@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <documentTitle>Automation Test Report</documentTitle>
+        <reportTitle>Extent Report - Cucumber Selenium</reportTitle>
+        <theme>dark</theme>
+    </configuration>
+</extentreports>

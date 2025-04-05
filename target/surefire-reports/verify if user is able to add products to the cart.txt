@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: verify if user is able to add products to the cart
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.796 s <<< FAILURE! -- in verify if user is able to add products to the cart
+verify if user is able to add products to the cart.add products to the cart -- Time elapsed: 7.796 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Your Cart[1]> but was:<Your Cart[]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at org.haidar.cucumberbdd.StepDefinitions.i_should_land_to_cart_details_page(StepDefinitions.java:154)
+	at ✽.I should land to cart details page(file:///D:/EclipseSoftware/cucumberbdd/src/test/resources/featuresToBeRunInParallel/addToCart.feature:9)
+
